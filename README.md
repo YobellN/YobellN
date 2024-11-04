@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yobell</h1>
 <h3 align="center">I have a critical mindset and a passion for learning new things, always seeking to challenge myself and expand my knowledge. My primary focus is on software development, especially in backend and fullstack areas.</h3>
 
+- 👀 I’m interested in **Backend and Full-Stack Development**
+
 - 🌱 I’m currently learning **Laravel, Flutter, React**
 
 - 💬 Ask me about **Laravel and Flutter**
